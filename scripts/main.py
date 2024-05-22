@@ -15,7 +15,7 @@ def url_grabber(url):
         if 'https://' in response[end-tunner : end]:
             link = response[end-tunner : end]
             start = link.find('https://')
-            end = link.find('.m3u8') 
+            end = link.find('.m3u8') + 5
             break
         tunner += 5
     print(f"{link[start : end]}")
