@@ -34,6 +34,10 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
+      - name: Get Latest Changes
+        run : |
+          git pull
+
       - name: Main
         run: |
           pwd
