@@ -2,7 +2,7 @@ import requests
 import os
 import sys
 
-CHANNEL_LIST='c:/Users/PC/OneDrive/Documentos/Python Projects/M3U Grabber/channel_list.txt'
+CHANNEL_LIST='../channel_list.txt'
 
 def url_grabber(url): 
     """Function to get the m3u8 link from a youtube video"""
