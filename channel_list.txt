@@ -1,0 +1,5 @@
+~~ List of Youtube Channels to have
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Televisa Veracruz | Mexico | https://media.licdn.com/dms/image/C5603AQEs8mWga4uxRA/profile-displayphoto-shrink_200_200/0/1517578574480?e=1721865600&v=beta&t=91yZAA4kGArdsSS-R7fXOJgLs9sCL5jfcXUm4K094ys | 
+https://www.youtube.com/@TelevisaVeracruzOficial/live
